@@ -1,0 +1,4 @@
+each article has its category and its comments (relations)
+it shows 2 article in each page and has a link to next page.
+for authentication used passport laravel
+it has some fuctions for chats ( user chat history, user last activity, ect..)
